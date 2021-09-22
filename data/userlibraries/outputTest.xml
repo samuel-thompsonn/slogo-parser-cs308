@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UserLib>
+    <CommandsList>
+        <command contents="fd sum :varfirst foo" name="foo">
+            <argument label="varfirst"/>
+            <argument label="varsecond"/>
+        </command>
+    </CommandsList>
+    <VariableList>
+        <Variable name="a" value="5.0"/>
+        <Variable name="b" value="3333.3"/>
+    </VariableList>
+</UserLib>

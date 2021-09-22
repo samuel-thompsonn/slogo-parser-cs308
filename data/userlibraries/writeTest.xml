@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UserLib>
+    <CommandsList>
+        <Command contents="fd :firstvar bk :secondvar " name="foo">
+            <argument label="firstvar"/>
+            <argument label="secondvar"/>
+        </Command>
+    </CommandsList>
+    <VariableList>
+        <Variable name="dummy" value="5.0"/>
+        <Variable name="a" value="3.0"/>
+        <Variable name="b" value="23.1"/>
+        <Variable name="c" value="1.123123123E9"/>
+    </VariableList>
+</UserLib>
